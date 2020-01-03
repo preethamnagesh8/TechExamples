@@ -1,0 +1,11 @@
+Hello Everyone.
+
+The Owasp Top 10 API 2019 project is intended to learn and understand the OWASP top 10 API vulnerabilities with hands on examples.
+Here you will find examples that are vulnerable and how it can be fixed.
+
+I am a beginner in Cyber Security and am interested in secure code practices and implementation in coding.
+Along with me myself learning these concept, I would also like to explain them to all those Cyber Security Secure Code Enthusiasts.
+
+As goes the saying teaching a concept helps the teacher understand the concept better.
+
+Please feel free to provide suggestions and any improvements needed.
